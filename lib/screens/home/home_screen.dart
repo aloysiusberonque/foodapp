@@ -80,7 +80,7 @@ class HomeScreen extends StatelessWidget {
           SliverPadding(
             padding: const EdgeInsets.all(defaultPadding),
             sliver: SliverToBoxAdapter(
-              child: Image.asset("assets/images/dog.jpg"),
+              child: Image.asset("assets/images/Banner.png"),
             ),
           ),
           SliverPadding(

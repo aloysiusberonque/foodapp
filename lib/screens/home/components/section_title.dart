@@ -25,7 +25,7 @@ class SectionTitle extends StatelessWidget {
             onPressed: () {},
             style: TextButton.styleFrom(primary: kActiveColor),
             child: Text(
-              "Sell all",
+              "See all",
             ))
       ],
     );
